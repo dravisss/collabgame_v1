@@ -157,7 +157,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/collabdesign.org\/collabgame\/"
+                 "value":"https:\/\/app.facilita.social\/"
                 }],
          "type":"tilelayer",
          "visible":true,
