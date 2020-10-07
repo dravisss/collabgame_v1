@@ -1054,7 +1054,7 @@
         {
          "columns":6,
          "firstgid":321,
-         "image":"..\/tiled\/examples\/sticker-knight\/map\/flare.png",
+         "image":"tiled\/examples\/sticker-knight\/map\/flare.png",
          "imageheight":192,
          "imagewidth":192,
          "margin":0,
